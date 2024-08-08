@@ -8,7 +8,7 @@ i have 6 years of experience in this field. now im a fullstack web developer.
 
 *   🌍  I'm based in india
 *   🖥️  See my portfolio at [Global-Business-Developments]()
-*   ✉️  You can contact me at [digititanic@gmail.com](mailto:digititanic@gmail.com) or [call/whatsapp](tel:+919382085005)
+*   ✉️  You can contact me at [digititanic@gmail.com](mailto:digititanic@gmail.com) or [call/whatsapp] +91 9382085005 🚜
 *   🧠  I'm learning laravel and django
 *   🤝  I'm open to collaborating on web development work and digital marketing
 *   ⚡  im a man but i cant play guiter.
