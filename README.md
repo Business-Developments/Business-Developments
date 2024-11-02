@@ -1,8 +1,8 @@
 Hi 👋 I'm Subrata jana
 =============================
 
-web developer and designer
---------------------------
+digital marketing agency
+------------------------
 
 i have 6 years of experience in this field. now im a fullstack web developer.
 
