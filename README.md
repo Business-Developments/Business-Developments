@@ -1,13 +1,13 @@
 Hi 👋 I'm Subrata jana
-=============================
+======================
 
-digital marketing 
+Digital marketing 
 -----------------
 
 i have 6 years of experience in this field. now im a fullstack web developer.
 
 *   🌍  I'm based in india
-*   🖥️  See my portfolio at [Global-Business-Developments]()
+*   🖥️  See my portfolio at [Business-Developments]()
 *   ✉️  You can contact me at [digititanic@gmail.com](mailto:digititanic@gmail.com) or [call/whatsapp] +91 9382085005 🚜
 *   🧠  I'm learning laravel and django
 *   🤝  I'm open to collaborating on web development work and digital marketing
